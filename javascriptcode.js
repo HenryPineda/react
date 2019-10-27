@@ -1,4 +1,5 @@
 
+//import { employee } from './employee';
 
 function Person(props){
 
@@ -40,3 +41,7 @@ document.querySelector('#p2'));
 
 ReactDOM.render(app,
 document.querySelector('#app'));
+
+
+
+
